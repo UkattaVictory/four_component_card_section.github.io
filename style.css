@@ -115,6 +115,7 @@ footer{
     justify-content: center;
     margin-block: 30px;
     font-size: 14px;
+    text-align: center;
 }
 @media(max-width: 450px){
     .card, .double_card,.team,.karma{
